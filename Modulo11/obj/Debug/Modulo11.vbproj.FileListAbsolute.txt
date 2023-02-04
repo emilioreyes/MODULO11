@@ -1,0 +1,12 @@
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\bin\Debug\Modulo11.exe.config
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\bin\Debug\Modulo11.exe
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\bin\Debug\Modulo11.pdb
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\bin\Debug\Modulo11.xml
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\obj\Debug\Modulo11.vbproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\obj\Debug\Modulo11.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\obj\Debug\Modulo11.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\obj\Debug\Modulo11.vbproj.GenerateResource.cache
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\obj\Debug\Modulo11.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\obj\Debug\Modulo11.exe
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\obj\Debug\Modulo11.xml
+C:\Users\Acer\Documents\Visual Studio 2019\Modulo11\Modulo11\obj\Debug\Modulo11.pdb
